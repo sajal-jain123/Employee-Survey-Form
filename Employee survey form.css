@@ -1,0 +1,27 @@
+*
+{
+    text-align: center;
+    background-color:lightgoldenrodyellow;
+}
+form
+{
+    border: 2px solid blue;
+    border-radius: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+} 
+button
+{
+    background-color: blue;
+    color: whitesmoke;
+}
+input,textarea,select
+{
+    background-color:white;
+}
+h1:hover 
+{
+    color: blueviolet;
+}
